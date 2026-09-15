@@ -1,0 +1,26 @@
+[
+    {
+        "pos_id": "POS001",
+        "outlet_id": "O001",
+        "status": "offline",
+        "connection": "WiFi",
+        "last_sync": "2026-09-12 16:30:00",
+        "version": "2.5.1"
+    },
+    {
+        "pos_id": "POS002",
+        "outlet_id": "O002",
+        "status": "online",
+        "connection": "LAN",
+        "last_sync": "2026-09-12 17:20:00",
+        "version": "2.5.1"
+    },
+    {
+        "pos_id": "POS003",
+        "outlet_id": "O003",
+        "status": "online",
+        "connection": "WiFi",
+        "last_sync": "2026-09-12 17:15:00",
+        "version": "2.4.9"
+    }
+]

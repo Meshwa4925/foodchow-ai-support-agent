@@ -1,0 +1,18 @@
+[
+    {
+        "printer_id": "PR001",
+        "outlet_id": "O001",
+        "name": "Kitchen Printer",
+        "status": "offline",
+        "connection": "WiFi",
+        "last_print": "2026-09-10 18:20:00"
+    },
+    {
+        "printer_id": "PR002",
+        "outlet_id": "O002",
+        "name": "Billing Printer",
+        "status": "online",
+        "connection": "USB",
+        "last_print": "2026-09-10 22:10:00"
+    }
+]

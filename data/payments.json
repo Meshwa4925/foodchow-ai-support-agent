@@ -1,0 +1,30 @@
+[
+    {
+        "payment_id": "P1001",
+        "order_id": "1024",
+        "amount": 500,
+        "status": "success",
+        "method": "UPI"
+    },
+    {
+        "payment_id": "P1002",
+        "order_id": "1025",
+        "amount": 750,
+        "status": "success",
+        "method": "Card"
+    },
+    {
+        "payment_id": "P1003",
+        "order_id": "1026",
+        "amount": 350,
+        "status": "failed",
+        "method": "UPI"
+    },
+    {
+        "payment_id": "P1004",
+        "order_id": "1027",
+        "amount": 620,
+        "status": "success",
+        "method": "Card"
+    }
+]

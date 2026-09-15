@@ -1,0 +1,16 @@
+[
+    {
+        "restaurant_id": "R001",
+        "name": "Spice Garden Restaurant",
+        "phone": "9876543210",
+        "city": "Surat",
+        "status": "active"
+    },
+    {
+        "restaurant_id": "R002",
+        "name": "Food Palace",
+        "phone": "9876543211",
+        "city": "Ahmedabad",
+        "status": "active"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "source": "Accounts.md",
+        "content": "# Account Troubleshooting\n\n## Account Access Issue\n\nFor account-related issues:\n\n1. Verify the restaurant account.\n2. Confirm the relevant account information.\n3. Do not expose sensitive account information.\n4. Escalate account security issues to human support.\n\n## Account Security\n\nAccount security issues must be escalated to human support.\nDo not perform sensitive account actions without authorization."
+    },
+    {
+        "source": "Kds.md",
+        "content": "# KDS Troubleshooting\n\n## Orders Not Appearing on KDS\n\nIf orders are not appearing on the Kitchen Display System:\n\n1. Check KDS status.\n2. Check whether order synchronization is working.\n3. Verify the outlet ID.\n4. Restart the KDS application.\n5. Retry order synchronization.\n\nIf KDS remains offline or synchronization is not working, escalate to support."
+    },
+    {
+        "source": "Menu_management.md",
+        "content": "# Menu Management\n\n## Menu Not Updating\n\nIf menu changes are not reflected:\n\n1. Check menu sync status.\n2. Check the last update time.\n3. Verify the outlet.\n4. Retry synchronization.\n5. Escalate if synchronization fails.\n\n## Item Availability\n\nIf an item should be available:\n\n1. Check the current item availability.\n2. Verify the outlet menu.\n3. Update availability only if authorized.\n4. Confirm the change."
+    },
+    {
+        "source": "Online_ordering.md",
+        "content": "# Online Ordering Troubleshooting\n\n## Cannot Place Online Order\n\nIf customers cannot place an online order:\n\n1. Check whether the outlet is active.\n2. Check menu availability.\n3. Verify item availability.\n4. Check whether the ordering service is working.\n5. Escalate if the issue continues.\n\n## Menu Changes Not Appearing Online\n\nIf menu changes are not visible online:\n\n1. Check the menu sync status.\n2. Verify the last menu update time.\n3. Retry menu synchronization.\n4. Check item availability.\n\nIf synchronization fails repeatedly, escalate to support.\n\n## Sold Out Item\n\nIf an item is showing as sold out:\n\n1. Check item availability in the menu.\n2. Verify outlet menu configuration.\n3. Update item availability if authorized.\n4. Confirm that the item is visible correctly."
+    },
+    {
+        "source": "Payments.md",
+        "content": "# Payment Troubleshooting\n\n## Payment Deducted but Order is Pending\n\nIf payment was deducted but the order is still pending:\n\n1. Get the order information.\n2. Check the order status.\n3. Check the payment status.\n4. Compare order and payment states.\n5. Explain the mismatch to the customer.\n6. Do not issue a refund automatically.\n7. Escalate if payment investigation or refund approval is required.\n\n## Payment Successful but Order Failed\n\nIf payment is successful but the order failed:\n\n1. Retrieve the order.\n2. Retrieve payment information.\n3. Compare order and payment status.\n4. Do not perform a refund without authorization.\n5. Create a support ticket if manual investigation is required.\n\n## Refund\n\nRefunds are controlled actions.\n\nBefore processing a refund:\n\n1. Verify the order.\n2. Verify payment.\n3. Check refund eligibility.\n4. Calculate the refund amount.\n5. Obtain required approval.\n6. Execute the refund only when authorized."
+    },
+    {
+        "source": "Pos.md",
+        "content": "# POS Troubleshooting\n\n## POS Sync Issue\n\nIf the POS is not syncing with FoodChow:\n\n1. Check the internet connection.\n2. Verify that the POS application is running.\n3. Restart the POS application.\n4. Check whether the outlet is active.\n5. Retry synchronization.\n\nIf the problem continues, collect outlet information and escalate to support.\n\n## GST and Billing Issue\n\nIf GST or billing information looks incorrect:\n\n1. Verify the restaurant and outlet configuration.\n2. Check the applicable tax settings.\n3. Verify the bill amount.\n4. If the issue cannot be resolved, escalate to support.\n\n## POS Offline Issue\n\nIf POS is offline:\n\n1. Check internet connectivity.\n2. Check whether the POS application is running.\n3. Restart the application.\n4. Check outlet status.\n5. Escalate if the POS remains offline.\n\n## Printer Issue from POS\n\nIf bills are not printing:\n\n1. Check printer connection.\n2. Check printer status.\n3. Verify that the correct printer is configured.\n4. Restart the printer.\n5. Retry printing."
+    },
+    {
+        "source": "Printers.md",
+        "content": "# Printer Troubleshooting\n\n## Printer Offline\n\nIf a printer is offline:\n\n1. Check the printer power.\n2. Check the network or USB connection.\n3. Verify printer status.\n4. Restart the printer.\n5. Retry printing.\n\nIf the printer remains offline, create a support ticket.\n\n## Printer Not Printing\n\nIf the printer is online but does not print:\n\n1. Verify printer configuration.\n2. Check the connection.\n3. Check whether another print job is stuck.\n4. Restart the printer.\n5. Retry printing.\n\nIf printing still fails, escalate to support."
+    },
+    {
+        "source": "restaurant_setup.md",
+        "content": "# Restaurant Setup\n\n## Outlet Setup Issue\n\nIf an outlet is not working correctly:\n\n1. Verify restaurant information.\n2. Verify outlet information.\n3. Check outlet status.\n4. Confirm required configuration.\n5. Escalate if configuration is incorrect or unavailable.\n\n## Restaurant Information\n\nAlways verify the restaurant ID and outlet ID before performing outlet-specific troubleshooting."
+    },
+    {
+        "source": "Troubleshooting.md",
+        "content": "# General Troubleshooting\n\n## Diagnostic Process\n\nWhen a customer reports an issue:\n\n1. Understand and classify the issue.\n2. Search the knowledge base.\n3. Ask for missing information.\n4. Call the relevant diagnostic tool.\n5. Analyze the tool result.\n6. Identify the likely root cause.\n7. Explain the issue to the customer.\n8. Provide troubleshooting steps.\n9. Ask whether the issue is resolved.\n10. Escalate if necessary.\n\n## Tool Failure\n\nIf a diagnostic tool fails:\n\n1. Do not invent a result.\n2. Explain that the system could not retrieve the required information.\n3. Retry when appropriate.\n4. Escalate if the problem continues.\n\n## Missing Information\n\nIf required information such as order ID or outlet ID is missing, ask the customer for it before performing the relevant investigation.\n\n## Escalation\n\nEscalate when:\n\n- Confidence is low.\n- There is a payment dispute.\n- A refund requires approval.\n- There is an account security issue.\n- There is a critical POS outage.\n- Troubleshooting has repeatedly failed.\n- A backend/API failure prevents investigation."
+    }
+]

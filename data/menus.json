@@ -1,0 +1,30 @@
+[
+    {
+        "menu_id": "M001",
+        "outlet_id": "O001",
+        "last_updated": "2026-09-10 20:00:00",
+        "sync_status": "synced",
+        "items": [
+            {
+                "name": "Paneer Pizza",
+                "available": true
+            },
+            {
+                "name": "Veg Burger",
+                "available": false
+            }
+        ]
+    },
+    {
+        "menu_id": "M002",
+        "outlet_id": "O002",
+        "last_updated": "2026-09-10 19:30:00",
+        "sync_status": "failed",
+        "items": [
+            {
+                "name": "Paneer Pizza",
+                "available": true
+            }
+        ]
+    }
+]

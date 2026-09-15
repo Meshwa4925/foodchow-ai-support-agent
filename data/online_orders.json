@@ -1,0 +1,20 @@
+[
+    {
+        "outlet_id": "O001",
+        "status": "online",
+        "order_placement": "working",
+        "last_sync": "2026-09-12 18:00:00"
+    },
+    {
+        "outlet_id": "O002",
+        "status": "online",
+        "order_placement": "not_working",
+        "last_sync": "2026-09-12 17:30:00"
+    },
+    {
+        "outlet_id": "O003",
+        "status": "online",
+        "order_placement": "working",
+        "last_sync": "2026-09-12 18:10:00"
+    }
+]

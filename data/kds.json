@@ -1,0 +1,20 @@
+[
+    {
+        "kds_id": "KDS001",
+        "outlet_id": "O001",
+        "status": "online",
+        "orders_sync": "working"
+    },
+    {
+        "kds_id": "KDS002",
+        "outlet_id": "O002",
+        "status": "offline",
+        "orders_sync": "not_working"
+    },
+    {
+        "kds_id": "KDS003",
+        "outlet_id": "O003",
+        "status": "online",
+        "orders_sync": "working"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "order_id": "1024",
+        "restaurant_id": "R001",
+        "outlet_id": "O001",
+        "customer_name": "Rahul",
+        "amount": 500,
+        "status": "pending"
+    },
+    {
+        "order_id": "1025",
+        "restaurant_id": "R001",
+        "outlet_id": "O001",
+        "customer_name": "Priya",
+        "amount": 750,
+        "status": "confirmed"
+    },
+    {
+        "order_id": "1026",
+        "restaurant_id": "R001",
+        "outlet_id": "O002",
+        "customer_name": "Amit",
+        "amount": 350,
+        "status": "failed"
+    },
+    {
+        "order_id": "1027",
+        "restaurant_id": "R002",
+        "outlet_id": "O003",
+        "customer_name": "Neha",
+        "amount": 620,
+        "status": "pending"
+    }
+]

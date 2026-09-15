@@ -1,0 +1,23 @@
+[
+    {
+        "outlet_id": "O001",
+        "restaurant_id": "R001",
+        "name": "Spice Garden - Main Outlet",
+        "city": "Surat",
+        "status": "active"
+    },
+    {
+        "outlet_id": "O002",
+        "restaurant_id": "R001",
+        "name": "Spice Garden - Vesu",
+        "city": "Surat",
+        "status": "active"
+    },
+    {
+        "outlet_id": "O003",
+        "restaurant_id": "R002",
+        "name": "Food Palace - Main Outlet",
+        "city": "Ahmedabad",
+        "status": "active"
+    }
+]
